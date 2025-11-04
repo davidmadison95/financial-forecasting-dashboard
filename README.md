@@ -353,9 +353,9 @@ Data Analyst | Financial Analytics & Machine Learning
 
 📧 davidmadison95@yahoo.com
 
-🔗 LinkedIn
+🔗 LinkedIn - https://www.linkedin.com/in/davidmadison95/
 
-💼 Portfolio
+💼 Portfolio - https://davidmadison95.github.io/Business-Portfolio/
 
 📄 License
 
@@ -391,5 +391,6 @@ Python-based financial analytics system with automated forecasting and interacti
 💡 Identified $20K+ profit anomalies through statistical outlier detection, prompting corrective action
 
 Impact: Demonstrated data-driven financial planning methodology applicable across industries
+
 
 Built with ❤️ and data by David Madison | 2025
