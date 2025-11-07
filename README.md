@@ -221,7 +221,7 @@ python --version  # 3.8 or higher required
 
 Quick Start
 # Clone repository
-git clone https://github.com/yourusername/financial-forecasting-dashboard.git
+git clone https://github.com/davidmadison95/financial-forecasting-dashboard
 cd financial-forecasting-dashboard
 
 # Install dependencies
@@ -394,3 +394,4 @@ Impact: Demonstrated data-driven financial planning methodology applicable acros
 
 
 Built with ❤️ and data by David Madison | 2025
+
